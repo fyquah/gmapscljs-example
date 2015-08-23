@@ -1,0 +1,20 @@
+pom.xml
+*jar
+**.swp
+/lib/
+/classes/
+/out/
+/release/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+node_modules/
+
+# Ignore checkouts
+checkouts/
+checkouts-normal/
+
+# ignore repl stuff
+.repl*
+repl/
