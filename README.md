@@ -2,6 +2,10 @@
 
 A (very simple) example of using [gmapscljs](https://github.com/fyquah95/gmapscljs).
 
+# Demo
+
+[http://www.fyquah.me/projects/gmapscljs/](http://www.fyquah.me/projects/gmapscljs/)
+
 ## A quick walkthrough
 
 ~~~clojure
